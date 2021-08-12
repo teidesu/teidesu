@@ -15,7 +15,7 @@
 
 ### My projects
 #### Most of my time I currently spend working on
- - [mtqt](//github.com/mtqt-dev/mtqt), which is a TypeScript library for [MTProto](https://core.telegram.org/mtproto) clients and bots
+ - [mtcute](//github.com/mtcute/mtcute), which is a TypeScript library for [MTProto](https://core.telegram.org/mtproto) clients and bots
  - **???**, which is a large project and I'm not ready to elaborate on it just yet 
  - and nothing else at the moment (but I have tons of ideas and probably will never have enough time to implement them 🤷‍♀️).
 
