@@ -10,7 +10,7 @@
 - ✨ Enjoy building cool things, discovering, inventing and analysing different protocols and algorithms
 - 🦥 Not looking for official jobs *(yet)*, but open for commissions
 - 🧐 Currently exploring WebGL and VR
-- 🎲 Sometimes post random stuff in my Telegram channel (Russian) [@teipond](//t.me/teipond)
+- 🎲 Sometimes post random stuff in my Telegram channel (Russian) [@teispam](//t.me/teispam)
 - 💰 I like money, [plz donate](//tei.su/donate)
 
 ### My projects
