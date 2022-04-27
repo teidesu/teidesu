@@ -15,6 +15,7 @@
 
 ### My projects
 #### Most of my time I currently spend working on
+ - fixing my mental issues 
  - [mtcute](//github.com/mtcute/mtcute), which is a TypeScript library for [MTProto](https://core.telegram.org/mtproto) clients and bots
  - **???**, which is a large project and I'm not ready to elaborate on it just yet 
  - and nothing else at the moment (but I have tons of ideas and probably will never have enough time to implement them 🤷‍♀️).
@@ -25,6 +26,7 @@
 #### I also made these open-source thingies
  - [protoflex](//github.com/teidesu/protoflex), which is a JS tool for parsing and building arbitrary [Protobuf](https://developers.google.com/protocol-buffers) messages.
  - [eager-async-pool](//github.com/teidesu/eager-async-pool), which is a simple to use, fully asynchronous and iterable-based async pool for JavaScript and TypeScript.
+ - [zenly-proto](//github.com/teidesu/zenly-proto), which is a collection of reverse-engineered .proto files from Zenly
  - [vk-audio](https://gist.github.com/teidesu/a0ef09d62abf42b6bbf83bb3608a084f), which is a JS script that produces [VK](//vk.com) tokens valid for usage with restricted `audio.*` API methods
  - [ym_recognition](https://gist.github.com/teidesu/1718f1516b497e060db3bb0b8255142c), which is a Python script that (ab)uses Yandex Alice to recognize music (poor man's Shazam)
  - [sourcemap-extractor.js](https://gist.github.com/teidesu/a189d2325a31ccf138617c5c5ef3a937), which is a JS script that loads and extracts original code from JS source maps
