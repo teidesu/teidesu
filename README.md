@@ -5,7 +5,7 @@
 </p>
 
 ### Brief
-- 🌸 I am **Alisa** aka `teidesu`
+- 🌸 I am **Alina** aka `teidesu`
 - 🎀 Fullstack **js/ts** dev, student, weeb and part-time anime girl based in Moscow
 - ✨ Enjoy building cool things, discovering, inventing and analysing different protocols and algorithms
 - 🦥 Not looking for official jobs *(yet)*, but open for commissions
