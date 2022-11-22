@@ -47,4 +47,4 @@
 </details>
 
 ### Contact
-[![TG: @teidumb](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](//t.me/teidumb)
+[![TG: @teidere](https://img.shields.io/badge/Telegram---?logo=telegram&style=for-the-badge&color=blue)](//t.me/teidere)
