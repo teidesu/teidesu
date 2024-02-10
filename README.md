@@ -6,9 +6,8 @@
 
 ### Brief
 - 🌸 I am **Alina** aka `teidesu`
-- 🎀 Fullstack **js/ts** dev, weeb and part-time anime girl based in Moscow
+- 🎀 Fullstack **js/ts** dev, full-time frontend dev and part-time anime girl from Moscow
 - ✨ Enjoy building cool things, discovering, inventing and analysing different protocols and algorithms
-- 🦥 Working at Yandex as a Frontend Developer
 - 🧐 Currently exploring WebGL and ETH
 - 💰 I like money, [plz donate](//tei.su/donate)
 
