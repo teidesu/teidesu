@@ -13,7 +13,7 @@
 ### my projects
 #### most of my time I currently spend working on
  - my awesome job
- - [mtcute](//github.com/mtcute/mtcute), which is a typeacript library for [mtproto](https://core.telegram.org/mtproto) clients and bots
+ - [mtcute](//github.com/mtcute/mtcute), which is a typescript library for [mtproto](https://core.telegram.org/mtproto) clients and bots
  - **???**, which is a large project and i'm not ready to elaborate on it just yet 
  - and nothing else at the moment (but i have tons of ideas and probably will never have enough time to implement them 🤷‍♀️).
 
