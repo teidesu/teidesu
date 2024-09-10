@@ -8,6 +8,7 @@
 - 🌸 i am **alina** aka `teidesu`
 - 🎀 fullstack **js/ts** dev, full-time frontend dev and part-time anime girl from moscow
 - ✨ meow
+- 💼 open for work, see my [resume](//s3.tei.su/resume-uwu.pdf) :3
 - 💰 i like money, [plz donate](//tei.su/donate)
 
 ### my projects
