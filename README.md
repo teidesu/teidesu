@@ -10,11 +10,13 @@
 - ✨ meow
 - 💼 open for work, see my [resume](//s3.tei.su/resume-uwu.pdf) :3
 - 💰 i like money, [plz donate](//tei.su/donate)
+- 🙏 more silly stuff on [git.stupid.fish/teidesu](https://git.stupid.fish/teidesu)
 
 ### my projects
 #### most of my time I currently spend working on
  - my awesome job
  - [mtcute](//github.com/mtcute/mtcute), which is a typescript library for [mtproto](https://core.telegram.org/mtproto) clients and bots
+ - [fuman](//github.com/teidesu/fuman), which is a collection of typescript libraries that (hopefully) dont suck
  - **???**, which is a large project and i'm not ready to elaborate on it just yet 
  - and nothing else at the moment (but i have tons of ideas and probably will never have enough time to implement them 🤷‍♀️).
 
