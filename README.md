@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=teidesu&show_icons=true&title_color=cba6f7&icon_color=cba6f7" />
+<img src="https://github-readme-stats.vercel.app/api?username=teidesu&show_icons=true&title_color=cba6f7&text_color=cba6f7&icon_color=cba6f7&bg_color=191825&border_color=45475A" />
 <br>
 <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fteidesu%2Fteidesu&label=visitors&icon=github&color=%23cba6f7"/>
 </p>
 
 ### brief
 - 🌸 i am **alina** aka `teidesu`
-- 🎀 fullstack **js/ts** dev, full-time frontend dev and part-time anime girl from moscow
+- 🎀 fullstack **js/ts** dev, full-time frontend dev and part-time anime girl from somewhere in the world
 - ✨ meow
 - 💼 open for work, see my [resume](//s3.tei.su/resume-uwu.pdf) :3
 - 💰 i like money, [plz donate](//tei.su/donate)
