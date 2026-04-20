@@ -14,7 +14,6 @@
 
 ### my projects
 #### most of my time I currently spend working on
- - my awesome job
  - [mtcute](//github.com/mtcute/mtcute), which is a typescript library for [mtproto](https://core.telegram.org/mtproto) clients and bots
  - [fuman](//github.com/teidesu/fuman), which is a collection of typescript libraries that (hopefully) dont suck
  - **???**, which is a large project and i'm not ready to elaborate on it just yet 
